@@ -1,0 +1,11 @@
+str1="one two three four five six seven eight nine ten"
+print(str1[0:3])
+print(str1[4:7])
+print(str1[8:13])
+print(str1[14:18])
+print(str1[19:23])
+print(str1[24:27])
+print(str1[28:33])
+print(str1[34:39])
+print(str1[40:44])
+print(str1[45:48])
